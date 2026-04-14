@@ -1,4 +1,4 @@
-# unified-field-theory# Unified Field Theory
+# unified-field-theory
 
 > An axiomatic inquiry into the constitutive conditions of the universe.
 
